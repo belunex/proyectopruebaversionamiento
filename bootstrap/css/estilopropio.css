@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(184, 205, 216);
+
+}
+
+#centro{
+    background-color: azure;
+}
+#contenido{
+    background-color: #DBF3FF;
+}
+.boton {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #1B3F61;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
